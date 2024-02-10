@@ -18,4 +18,4 @@ chmod 700 fol_2/*_2.txt
 
 echo "Files have been created"
 echo "Folders have been created"
-
+echo "Job completed"
